@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rudra Patel</h1>
+<h1 align="center">Hi 👋, I'm Rudra</h1>
 <h3 align="center">Python Programmer | Data Science & GenAI Enthusiast </h3>
 
 <p align="left"> 
