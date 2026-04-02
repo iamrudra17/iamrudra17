@@ -8,7 +8,7 @@
 ---
 
 - 🌱 Currently learning **Data Structures & Algorithms**, and exploring **Data Science & GenAI**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/IamRudraPatel)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/iamrudra17)
 - 💬 Ask me about **Python**, **Problem Solving**, or **DSA**
 - ⚡ Fun fact: I love solving coding challenges & exploring universe
 
